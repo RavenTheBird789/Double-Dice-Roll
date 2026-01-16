@@ -3,4 +3,4 @@ Python program for a simple game of chance where the goal is to roll two dice an
 
 To install, simply type "git clone https://github.com/RavenTheBird789/Double-Dice-Roll" in your terminals command line
 
-To run, either type "python3 dice.py" in your terminals command line or use the alias command in your terminals command line to create a shortcut to run the program in your terminal such as "alias roll="python3 dice.py""
+To run, either type "python3 dice.py" in your terminals command line or use the alias command to create a shortcut to run the program in your terminal such as "alias roll="python3 dice.py""
